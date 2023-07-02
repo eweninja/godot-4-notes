@@ -29,8 +29,9 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
   - [AdMob Editor Plugin by Poing Studios](https://github.com/Poing-Studios/godot-admob-plugin)
 
 - Editor / QoL:
+  - [Beehave by bitbrain](https://github.com/bitbrain/beehave)****
   - [Godot Gameplay Systems by OctoD](https://github.com/OctoD/godot-gameplay-systems)
-
+  
 
 
 ## projects
