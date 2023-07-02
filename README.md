@@ -11,7 +11,7 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
 ## tutorials
 
 - [FinePointCGi YouTube Channel](https://www.youtube.com/@FinePointCGI)
-- [Godot 4.0 Crash Course by CodingQuests | freeCodeCamp](https://www.youtube.com/watch?v=S8lMTwSRoRg)
+- [Godot 4.0 Crash Course by CodingQuests / freeCodeCamp](https://www.youtube.com/watch?v=S8lMTwSRoRg)
 
 ## resources
 
