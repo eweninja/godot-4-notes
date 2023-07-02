@@ -1,6 +1,7 @@
 # godot-4-notes
 
 [Ewe Ninja Blog 📃](https://blog.ewe.ninja) | [Tutorials 💡](#tutorials) | [Resources 📕](#resources) | [Notes 📓](#notes)
+
 Godot 4 resources, tutorials, notes and more.
 
 If you have any free tutorial, resource or plugin for Godot 4.x you can [create an issue]() and inform me about it!
