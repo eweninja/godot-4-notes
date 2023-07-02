@@ -1,0 +1,18 @@
+title: Godot 4 Notes by Ewe Ninja
+author: Ewe Ninja
+avatar: "/assets/img/avatar-icon.png"
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+lsi: false
+safe: true
+source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
