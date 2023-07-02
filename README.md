@@ -31,6 +31,7 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
 - Editor / QoL:
   - [Beehave by bitbrain](https://github.com/bitbrain/beehave)****
   - [Godot Gameplay Systems by OctoD](https://github.com/OctoD/godot-gameplay-systems)
+  - [Godot Mod Loader](https://github.com/GodotModding/godot-mod-loader)
   
 
 
