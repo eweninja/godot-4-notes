@@ -23,6 +23,7 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
 - Integrations:
   - [GodotFirebase by GodotNuts](https://github.com/GodotNuts/GodotFirebase)
   - [Google Play Billing](https://github.com/godotengine/godot-google-play-billing)
+  - [Godot-Playfab by Structed](https://github.com/Structed/godot-playfab)
  
 - Mobile:
   - [AdMob Android Plugin by Poing Studios](https://github.com/Poing-Studios/godot-admob-android)
