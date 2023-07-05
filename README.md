@@ -45,4 +45,4 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
 
 ## notes
 
-Soon.
+- [GDExtension](https://blog.ewe.ninja/godot-4-notes/notes/gdextension)
