@@ -42,6 +42,8 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
 ## projects
 
 - [Godot 4 Multiplayer example with GodotFirebase Plugin](https://github.com/eweninja/godot-firebase-multiplayer-example)
+- [Godot 4 Plugin Template GDScript](https://github.com/eweninja/godot-plugin-template-gdscript)
+- [Godot 4 Plugin Template C#](https://github.com/eweninja/godot-plugin-template-csharp)
 
 ## notes
 
