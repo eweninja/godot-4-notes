@@ -29,6 +29,7 @@ If you have any free tutorial, resource or plugin for Godot 4.x you can [create 
   - [AdMob Android Plugin by Poing Studios](https://github.com/Poing-Studios/godot-admob-android)
   - [AdMob iOS Plugin by Poing Studios](https://github.com/Poing-Studios/godot-admob-ios)
   - [AdMob Editor Plugin by Poing Studios](https://github.com/Poing-Studios/godot-admob-plugin)
+  - [Google Play Games Services updated by FinePointCGI](https://github.com/finepointcgi/PGSGP)
 
 - Editor / QoL:
   - [Beehave by bitbrain](https://github.com/bitbrain/beehave)****
